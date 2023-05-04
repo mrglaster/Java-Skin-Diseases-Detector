@@ -51,7 +51,8 @@ Urticaria
 Urticaria Papular
 Varicella
 Verruca Plana
-Verruca Vulgaris And Vitiligo Can Be Detected.
+Verruca Vulgaris 
+Vitiligo
 ```
 
 ### Screenshots
