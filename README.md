@@ -1,4 +1,4 @@
-## Java Skin DiseasesDetector
+## Java Skin Diseases Detector
 A small Android application that determines a skin identifies by a photo. The application supports both uploading an image from the gallery and creating a new image using the camera. [Detect Skin Disease API by AILabTools](https://rapidapi.com/ailabapi-ailabapi-default/api/detect-skin-disease) was used to recognize diseases.
 
 ### List of supported diseases
